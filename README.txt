@@ -1,9 +1,8 @@
 {
-  "name": "test",
-  "absents": "Mr X, Mme Y",
-  "annonces1" : "Octobre Rose",
-  "annonces2" : "Marathon + Cross + Cinema Mardi",
-  "annonces3" : "premier test",
-  "exo sup" : "essayer les âcüéntç",
-  "last update" : "06/11/2021 00:18"
- }
+	"name" : "~o}~",
+	"absents" : "W|*b6*Wwo*c",
+	"annonces1" : "Ym~yl|o*\y}o",
+	"annonces2" : "Wk|k~ryx*5*M|y}}*5*Msxowk*Wk|ns",
+	"annonces3" : "z|owso|*~o}~",
+	"exo sup" : "o}}ko|*vo}*ìmĆóx~ñ"
+}
