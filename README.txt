@@ -1,5 +1,5 @@
 {
 	"premier" : "xjhtsi",
-	"deuxième" : "xjhtsi",
-	"troisième" : "ymtrfx%qj%ujyny%ywfns"
+	"deuxiame" : "xjhtsi",
+	"troisizme" : "ymtrfx%qj%ujyny%ywfns"
 }
